@@ -1,3 +1,5 @@
+# Login system for users
+
 username = input("Enter username: ")
 
 if username == "admin":
